@@ -1,0 +1,8 @@
+__pycahe__/
+*.pyc
+
+venv/
+
+async/
+threading/
+wiki_titles.tsv
